@@ -1,0 +1,15 @@
+C:\Users\eliza\Documents\GitHub\RandomPlayer\bin\Debug\net7.0\RandomPlayer.exe
+C:\Users\eliza\Documents\GitHub\RandomPlayer\bin\Debug\net7.0\RandomPlayer.deps.json
+C:\Users\eliza\Documents\GitHub\RandomPlayer\bin\Debug\net7.0\RandomPlayer.runtimeconfig.json
+C:\Users\eliza\Documents\GitHub\RandomPlayer\bin\Debug\net7.0\RandomPlayer.dll
+C:\Users\eliza\Documents\GitHub\RandomPlayer\bin\Debug\net7.0\RandomPlayer.pdb
+C:\Users\eliza\Documents\GitHub\RandomPlayer\obj\Debug\net7.0\RandomPlayer.csproj.AssemblyReference.cache
+C:\Users\eliza\Documents\GitHub\RandomPlayer\obj\Debug\net7.0\RandomPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliza\Documents\GitHub\RandomPlayer\obj\Debug\net7.0\RandomPlayer.AssemblyInfoInputs.cache
+C:\Users\eliza\Documents\GitHub\RandomPlayer\obj\Debug\net7.0\RandomPlayer.AssemblyInfo.cs
+C:\Users\eliza\Documents\GitHub\RandomPlayer\obj\Debug\net7.0\RandomPlayer.csproj.CoreCompileInputs.cache
+C:\Users\eliza\Documents\GitHub\RandomPlayer\obj\Debug\net7.0\RandomPlayer.dll
+C:\Users\eliza\Documents\GitHub\RandomPlayer\obj\Debug\net7.0\refint\RandomPlayer.dll
+C:\Users\eliza\Documents\GitHub\RandomPlayer\obj\Debug\net7.0\RandomPlayer.pdb
+C:\Users\eliza\Documents\GitHub\RandomPlayer\obj\Debug\net7.0\RandomPlayer.genruntimeconfig.cache
+C:\Users\eliza\Documents\GitHub\RandomPlayer\obj\Debug\net7.0\ref\RandomPlayer.dll
