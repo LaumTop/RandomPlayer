@@ -1,0 +1,14 @@
+D:\Visual studio\new_Random_Player\new_Random_Player\bin\Debug\net8.0\new_Random_Player.exe
+D:\Visual studio\new_Random_Player\new_Random_Player\bin\Debug\net8.0\new_Random_Player.deps.json
+D:\Visual studio\new_Random_Player\new_Random_Player\bin\Debug\net8.0\new_Random_Player.runtimeconfig.json
+D:\Visual studio\new_Random_Player\new_Random_Player\bin\Debug\net8.0\new_Random_Player.dll
+D:\Visual studio\new_Random_Player\new_Random_Player\bin\Debug\net8.0\new_Random_Player.pdb
+D:\Visual studio\new_Random_Player\new_Random_Player\obj\Debug\net8.0\new_Random_Player.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio\new_Random_Player\new_Random_Player\obj\Debug\net8.0\new_Random_Player.AssemblyInfoInputs.cache
+D:\Visual studio\new_Random_Player\new_Random_Player\obj\Debug\net8.0\new_Random_Player.AssemblyInfo.cs
+D:\Visual studio\new_Random_Player\new_Random_Player\obj\Debug\net8.0\new_Random_Player.csproj.CoreCompileInputs.cache
+D:\Visual studio\new_Random_Player\new_Random_Player\obj\Debug\net8.0\new_Random_Player.dll
+D:\Visual studio\new_Random_Player\new_Random_Player\obj\Debug\net8.0\refint\new_Random_Player.dll
+D:\Visual studio\new_Random_Player\new_Random_Player\obj\Debug\net8.0\new_Random_Player.pdb
+D:\Visual studio\new_Random_Player\new_Random_Player\obj\Debug\net8.0\new_Random_Player.genruntimeconfig.cache
+D:\Visual studio\new_Random_Player\new_Random_Player\obj\Debug\net8.0\ref\new_Random_Player.dll
